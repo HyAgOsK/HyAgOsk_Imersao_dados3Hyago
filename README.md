@@ -23,7 +23,9 @@
 
 **Base de Dados:** Esse projeto foi inspirado em um desafio do [Laboratory innovation science at Harvard](https://lish.harvard.edu/) disponibilizando os dados em uma competição no [Kaggle](https://www.kaggle.com/c/lish-moa).
 
-<br>##### GRATIDÃO  A :
+<br>
+GRATIDÃO  A :
+
 ---
 
 
