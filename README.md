@@ -6,7 +6,7 @@
 # Imersao de Dados [ALURA](https://www.alura.com.br/) 
 
 
-[![author](https://img.shields.io/badge/author-Hyago-blue.svg)](https://www.linkedin.com/in/hyago-vieira-086163180/)
+[![author](https://img.shields.io/badge/author-Hyago-blue.svg)](https://www.linkedin.com/in/hyagovieira/)
 <p align="center">
  
 [![codigo](https://img.shields.io/badge/codigo-collab-orange.svg)](https://colab.research.google.com/drive/1OOzp9o74m-W8fB38Ox4Ms379cpWZKr5i?usp=sharing0/)
